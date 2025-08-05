@@ -1,4 +1,4 @@
-# Bio-inspired Spiking Memory Transformer for time series representation learning
+# Bio-inspired Spiking Memory Transformer for time series classification
 
 ```
 - pytorch==2.3.1
